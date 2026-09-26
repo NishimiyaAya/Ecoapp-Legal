@@ -1,6 +1,6 @@
 # 人生典藏支持中心
 
-产品：人生典藏/ Life Archive
+产品：人生典藏/ Life Collection
 
 客服邮箱：lifecollection@protonmail.com
 
@@ -65,7 +65,7 @@ Android 用户请通过 Google Play 的订单帮助页面申请。
 
 客服邮箱：
 
-YOUR_SUPPORT_EMAIL
+lifecollection@protonmail.com
 
 请在邮件中提供：
 
