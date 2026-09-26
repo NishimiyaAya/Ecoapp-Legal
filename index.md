@@ -1,4 +1,4 @@
-# 人生典藏 · Life collection
+# 人生典藏 · Life Collection
 
 记录物品的使用、成长与故事。
 
