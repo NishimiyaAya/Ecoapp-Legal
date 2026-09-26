@@ -1,9 +1,9 @@
-# 人生存档簿隐私政策
+# 人生典藏隐私政策
 
 生效日期：2026 年 9 月 26 日
 
 经营者：Yiqiu Fu  
-联系邮箱：nishimiyaaya1110@gmail.com 
+联系邮箱：lifecollection@protonmail.com 
 产品名称：人生典藏 / Life Archive
 
 ## 一、我们处理的信息
