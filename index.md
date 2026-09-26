@@ -1,4 +1,4 @@
-# 人生存档簿 · Life Archive
+# 人生典藏 · Life Archive
 
 记录物品的使用、成长与故事。
 
