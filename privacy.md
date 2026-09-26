@@ -4,7 +4,7 @@
 
 经营者：Yiqiu Fu  
 联系邮箱：lifecollection@protonmail.com 
-产品名称：人生典藏 / Life Archive
+产品名称：人生典藏 / Life Collection
 
 ## 一、我们处理的信息
 
@@ -70,4 +70,4 @@ iCloud 数据会保留到用户关闭、删除本应用云存档，或根据 App
 
 如需咨询隐私、数据导出、云存档或购买权益，请发送邮件至：
 
-YOUR_SUPPORT_EMAIL
+lifecollection@protonmail.com
